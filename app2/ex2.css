@@ -1,0 +1,16 @@
+.coloana{
+   height: 600px;
+   width: 600px;
+   overflow: auto;
+   margin: auto;
+     
+}
+
+img{
+   max-width: 100%; 
+}
+
+body{
+   background: linear-gradient(rgba(120, 0, 0, 0.5), rgba(126, 112, 112, 0.5)), url("https://i.pinimg.com/originals/73/2f/01/732f0181744a2f42028297987fbcf74b.jpg");
+   
+}  
